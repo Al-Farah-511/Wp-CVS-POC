@@ -1,0 +1,1 @@
+Proof of Concept (PoC) Python script to exploit SQL Injection in WordPress versions < 5.8.3 via WP_Query. This script provides enhanced capabilities, including automated SQL injection and data extraction.
